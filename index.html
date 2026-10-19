@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>p2 — Color Core</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=Vazirmatn:wght@300;500;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+<div class="scene" aria-hidden="true">
+  <div class="ambient"></div>
+
+  <div class="stage" id="stage">
+    <div class="rig">
+
+      <div class="platform">
+        <span class="platform__ring"></span>
+        <span class="platform__ring platform__ring--2"></span>
+        <span class="platform__ring platform__ring--3"></span>
+      </div>
+
+      <div class="orb-wrap">
+        <div class="orb">
+          <span class="orb__halo"></span>
+          <span class="orb__core"></span>
+
+          <div class="orb__cage">
+            <i style="--i:0"></i>
+            <i style="--i:1"></i>
+            <i style="--i:2"></i>
+            <i style="--i:3"></i>
+            <i style="--i:4"></i>
+            <i style="--i:5"></i>
+          </div>
+
+          <div class="orb__orbit orb__orbit--a"><b></b></div>
+          <div class="orb__orbit orb__orbit--b"><b></b></div>
+          <div class="orb__orbit orb__orbit--c"><b></b></div>
+
+          <span class="orb__glass"></span>
+        </div>
+      </div>
+
+      <div class="shock" id="shock"></div>
+    </div>
+  </div>
+
+  <div class="particles" id="particles"></div>
+</div>
+
+<main class="ui">
+  <header class="hud">
+    <p class="hud__eyebrow">Interactive 3D Color Core</p>
+    <h1 class="hud__title">Pick a colour<span class="hud__dot">.</span></h1>
+    <p class="hud__status">Emission&nbsp;·&nbsp;<strong id="status">idle</strong></p>
+  </header>
+
+  <div id="box">
+    <button data-value="red" class="mybtn">red</button>
+    <button data-value="green" class="mybtn">green</button>
+    <button data-value="blue" class="mybtn">blue</button>
+  </div>
+</main>
+
+<div class="watermark">شاه کدر ترکمن صحرا</div>
+
+<script src="./js/script.js"></script>
+</body>
+</html>
