@@ -99,3 +99,40 @@
 <br />
 
 ---
+
+## 📦 نصب و اجرا
+
+**قدم ۱ — کلون کردن پروژه**
+
+```bash
+git clone https://github.com/ArkmanCoding/3D-Ball-Color-Change.git
+cd 3D-Ball-Color-Change
+قدم ۲ — اجرا
+
+فایل index.html رو توی مرورگر باز کن. تمام! ✨
+
+💡 نکته: چون پروژه هیچ وابستگی یا build step نداره، نیازی به npm install یا ابزار اضافی نیست. کافیه فایل رو باز کنی — یا اگه خواستی، با Live Server توی VS Code اجراش کنی.
+
+
+📂 ساختار پروژه
+text
+3D-Ball-Color-Change/
+├── index.html      # ساختار صفحه و توپ سه‌بعدی
+├── style.css       # جلوه‌های سه‌بعدی، انیمیشن‌ها، ریسپانسیو
+├── script.js       # منطق تغییر رنگ و مدیریت رویدادها
+└── README.md       # مستندات پروژه
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:1e3a8a,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+🔮 امکانات آینده
+□ 🌈 پالت رنگی قابل تنظیم — انتخاب دستی رنگ‌ها توسط کاربر
+□ 🎚️ اسلایدر سرعت تغییر رنگ — کنترل سرعت انیمیشن
+□ 🖱️ افکت درگ و چرخش (Drag & Rotate) — چرخوندن توپ با ماوس و لمس
+□ 🎵 افکت صوتی تعاملی — صدای نرم هنگام کلیک/هاور
+□ 🌙 سوییچ تم تاریک/روشن — تغییر تم کلی صفحه
+□ 💾 ذخیره‌ی رنگ انتخابی — با localStorage بعد از رفرش یادش بمونه
+□ 📱 تبدیل به PWA — قابلیت نصب روی موبایل
+□ ♿ بهبود دسترسی‌پذیری — پشتیبانی کامل از کیبورد و ARIA
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:1e3a8a,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+```
+
