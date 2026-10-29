@@ -1,32 +1,27 @@
-<!-- ==================== COVER ==================== -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         COVER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f,0f3460,1e3a8a,3b82f6&height=240&section=header&text=3D%20Ball%20Color%20Change&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Interactive%203D%20Ball%20%E2%80%A2%20Click%20%26%20Hover%20to%20Recolor&descAlignY=62&descSize=18&animation=fadeIn" alt="3D Ball Color Change" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:1e3a8a,100:0a0a0e&height=240&section=header&text=3D%20Ball%20Color%20Change&fontSize=52&fontColor=ff9f0a&fontAlignY=38&desc=Interactive%203D%20Sphere%20%E2%80%94%20Click%20%26%20Hover%20to%20Recolor&descAlignY=60&descSize=20&animation=twinkling" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Interactive+3D+Ball+Experience;Click+%26+Hover+to+Change+Color;Pure+HTML+%C2%B7+CSS+%C2%B7+JavaScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=900&size=32&duration=3000&pause=800&color=ff9f0a&center=true&vCenter=true&width=700&lines=%D8%AA%D9%88%D9%BE+%D8%B3%D9%87%E2%80%8C%D8%A8%D8%B9%D8%AF%DB%8C+%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1+%D8%B1%D9%86%DA%AF;3D+Ball+Color+Change;%D8%AA%D8%B9%D8%A7%D9%85%D9%84+%D8%A8%D8%A7+%DA%A9%D9%84%DB%8C%DA%A9+%D9%88+%D9%87%D8%A7%D9%88%D8%B1" alt="Animated Title" />
 
 <br /><br />
 
-![Status](https://img.shields.io/badge/Status-Live-ff9f0a?style=flat-square&labelColor=0d1117)
-![License](https://img.shields.io/badge/License-MIT-ff9f0a?style=flat-square&labelColor=0d1117)
-![No Framework](https://img.shields.io/badge/No_Framework-Vanilla_JS-ff9f0a?style=flat-square&labelColor=0d1117)
-![Made by](https://img.shields.io/badge/Made_by-Arkman-ff9f0a?style=flat-square&labelColor=0d1117)
-
-</div>
-
----
-
-<!-- ==================== LANGUAGE SELECTOR ==================== -->
-<div align="center">
-
 <a href="#-فارسی">
-  <img src="https://img.shields.io/badge/🇮🇷_فارسی-ff9f0a?style=for-the-badge&labelColor=0d1117" alt="Persian" />
+  <img src="https://img.shields.io/badge/🇮🇷_فارسی-ff9f0a?style=for-the-badge&labelColor=1a1a20&logoColor=white" alt="فارسی" height="50" />
 </a>
 &nbsp;&nbsp;
 <a href="#-english">
-  <img src="https://img.shields.io/badge/🇬🇧_English-ff9f0a?style=for-the-badge&labelColor=0d1117" alt="English" />
+  <img src="https://img.shields.io/badge/🇬🇧_English-ff9f0a?style=for-the-badge&labelColor=1a1a20&logoColor=white" alt="English" height="50" />
 </a>
 
 </div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:1e3a8a,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
