@@ -52,3 +52,50 @@
 > 💡 **یک جمله در یک نفس:** یک توپ که با هر کلیک و هاور، رنگش رو عوض می‌کنه و حال و هوای صفحه رو عوض می‌کنه.
 
 <br />
+## ✨ ویژگی‌ها
+
+- 🎨 **تغییر رنگ تعاملی** — با **کلیک** یا **هاور** روی توپ، رنگش به‌صورت نرم تغییر می‌کنه
+- 🔮 **ظاهر سه‌بعدی واقعی** — عمق، سایه، و هایلایت با CSS خالص (بدون WebGL یا کتابخانه)
+- 🌈 **طیف رنگی متنوع** — چرخش بین رنگ‌های جذاب و چشمنواز با هر تعامل
+- ⚡ **انیمیشن‌های نرم و بهینه** — استفاده از `transition` و `transform` برای روانی کامل
+- 🌗 **تم تیره حرفه‌ای** — پس‌زمینه‌ی تیره با رنگ تاکیدی نارنجی (`#ff9f0a`) برای کنتراست بالا
+- 📱 **کاملاً ریسپانسیو** — روی موبایل، تبلت، و دسکتاپ تجربه‌ی یکسان
+- 🖱️ **پشتیبانی از لمس (Touch)** — کارکرد درست روی موبایل و دستگاه‌های لمسی
+- 🧩 **بدون وابستگی (Zero Dependency)** — فقط HTML، CSS، و JavaScript خالص
+- 🚀 **سبک و سریع** — حجم بسیار کم، بارگذاری فوری، بدون build یا نصب پکیج
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:1e3a8a,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+## 🚀 مشاهده‌ی آنلاین
+
+<div align="center">
+
+<a href="https://arkmancoding.github.io/3D-Ball-Color-Change/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_مشاهده_دموی_زنده-ff9f0a?style=for-the-badge&labelColor=1a1a20&logoColor=white" alt="Live Demo" height="55" />
+</a>
+
+</div>
+
+<br />
+
+---
+
+## 🛠️ تکنولوژی‌ها
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=6" alt="Tech Stack" />
+
+</div>
+
+| تکنولوژی | کاربرد |
+|----------|---------|
+| **HTML5** | ساختار و معنایی (Semantic) صفحه |
+| **CSS3** | جلوه‌های سه‌بعدی، سایه، انیمیشن، ریسپانسیو |
+| **JavaScript (Vanilla)** | منطق تغییر رنگ، مدیریت رویداد (کلیک/هاور/لمس) |
+| **Git & GitHub** | کنترل نسخه و میزبانی (GitHub Pages) |
+
+<br />
+
+---
